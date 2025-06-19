@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c9805e01bec4ed146b41c8cdea4e0a61
+  - enabled: 1
+    path: Assets/Scenes/BoardImageTracking.unity
+    guid: bdaf43652246f384292a9d575fe03f31
+  - enabled: 1
+    path: Assets/Scenes/StudyMaterial1.unity
+    guid: 02f7d9d91fae70849b48a715605e3401
+  - enabled: 1
+    path: Assets/Scenes/Video1.unity
+    guid: 0ad7253c436aabd408c0bfefa7d76c51
+  - enabled: 1
+    path: Assets/Scenes/PDF1.unity
+    guid: 9b21d5703ebf14d4da86496d76cee1cb
+  - enabled: 1
+    path: Assets/Scenes/StudyMaterial2.unity
+    guid: 52ac3d9993f41214fa9dfb522aa279e6
+  - enabled: 1
+    path: Assets/Scenes/Video2.unity
+    guid: d64d920d21168e740bf9bec0ce064c32
+  - enabled: 1
+    path: Assets/Scenes/PDF2.unity
+    guid: 740a50d967951c74d8e95acbaf5acd51
+  - enabled: 1
+    path: Assets/Scenes/StudyMaterial3.unity
+    guid: 21ec5636799604646a2427e777ef52d3
+  - enabled: 1
+    path: Assets/Scenes/Video3.unity
+    guid: 753cfc4460b24b041bef1974c3994b4c
+  - enabled: 1
+    path: Assets/Scenes/PDF3.unity
+    guid: c87293b25d410e942b58dff5afe19f40
+  - enabled: 1
+    path: Assets/Scenes/StudyMaterial4.unity
+    guid: 38e7d78a55ff25e4680240bf36c1fb33
+  - enabled: 1
+    path: Assets/Scenes/Video4.unity
+    guid: 6478f3c514544dd47aa7453ff79149d5
+  - enabled: 1
+    path: Assets/Scenes/PDF4.unity
+    guid: 111da160fc800a5419775272af10018b
+  - enabled: 1
+    path: Assets/Scenes/StudyMaterial5.unity
+    guid: 4877f7793ab83ad45a3c2b1de70387d1
+  - enabled: 1
+    path: Assets/Scenes/Video5.unity
+    guid: b2294736c4cb62b4e96688ae08bc5678
+  - enabled: 1
+    path: Assets/Scenes/PDF5.unity
+    guid: 95c10a429ccd3a744b0d12b02f05d710
+  - enabled: 1
+    path: Assets/Scenes/StudyMaterial6.unity
+    guid: cac6f53f409a31f4faf7918c4642688c
+  - enabled: 1
+    path: Assets/Scenes/Video6.unity
+    guid: a2c3aeee71834d34f9635593f9e32cd6
+  - enabled: 1
+    path: Assets/Scenes/PDF6.unity
+    guid: c899d142a5e77bf4ca0b6fa09a584e7b
+  - enabled: 1
+    path: Assets/Scenes/Danger1.unity
+    guid: 1e9498f4c9f38a94185be19383394d85
+  - enabled: 1
+    path: Assets/Scenes/Danger2.unity
+    guid: 0bc9ab68501cfdd4e99258e92d5dcfdd
+  - enabled: 1
+    path: Assets/Scenes/Danger3.unity
+    guid: a85b39118c3ed5c4098c970541073fa5
+  - enabled: 1
+    path: Assets/Scenes/Danger4.unity
+    guid: b6456212e4fdf6445ba2002576dad9d0
+  - enabled: 1
+    path: Assets/Scenes/Danger5.unity
+    guid: 6787448a8fb69f74b92e7300302173c5
+  - enabled: 1
+    path: Assets/Scenes/Danger6.unity
+    guid: f5d85b2a2b6b5f94097f4a2335dbaa95
+  - enabled: 1
+    path: Assets/Scenes/Danger7.unity
+    guid: 45132ce41b7c2e4418b92bb000a77a58
+  - enabled: 1
+    path: Assets/Scenes/Danger8.unity
+    guid: 41d0ddc8b9212e848b51ac3cf4cdaa63
+  - enabled: 1
+    path: Assets/Scenes/Danger9.unity
+    guid: 40969e88891e99747bb3c7d420db3269
+  - enabled: 1
+    path: Assets/Scenes/LeaderboardDangers.unity
+    guid: aff31278785f646498db34e7992b5804
+  - enabled: 1
+    path: Assets/Scenes/Quiz1.unity
+    guid: e6f8ea33761a81944a28e00b027f338c
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard1.unity
+    guid: f6092bb3abbead548a1b83844731eff2
+  - enabled: 1
+    path: Assets/Scenes/Quiz2.unity
+    guid: 23bb41aee5b1c72488b42aaed596b92e
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard2.unity
+    guid: 8f61c9208001c4d4f909f321163323d6
+  - enabled: 1
+    path: Assets/Scenes/Quiz3.unity
+    guid: 0c2e805e5a7b14b4789595a7d17d9ee2
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard3.unity
+    guid: 90589ea631e73ba4582a2dde13cb801c
+  - enabled: 1
+    path: Assets/Scenes/Quiz4.unity
+    guid: 9a5f2fe5ca5e61d44af57724a6b1094e
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard4.unity
+    guid: 0e229df10bd3c0a40953ea154bc82585
+  - enabled: 1
+    path: Assets/Scenes/Quiz5.unity
+    guid: 31128790f1546a6458720be1e1bb8ba3
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard5.unity
+    guid: ece7ce7c045ddeb489156e431cf0e2eb
+  - enabled: 1
+    path: Assets/Scenes/Quiz6.unity
+    guid: b3412833eb5df0c4dbd3fd20247155c1
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard6.unity
+    guid: b11ea04a0dfc0c447a718b5b042f8939
+  - enabled: 1
+    path: Assets/Scenes/Chat.unity
+    guid: 74176bdb5e93e74489306becda4ea705
+  - enabled: 1
+    path: Assets/Scenes/UserFeedback.unity
+    guid: 1bcba52903c1bea4db865626b5294605
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: fdfb875a3dca5314e84e7403c2ecc690, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: df06afddd597d2d4fa54e5982ed197aa, type: 2}
